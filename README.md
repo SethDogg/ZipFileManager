@@ -1,7 +1,10 @@
 # ZipFileManager
-A Zip file manager that lets you :
-	 0 - Zip files into an archive
-	 1 - Add a file to an archive
-	 2 - Remove a file from an archive
-	 3 - Extract an archive
-	 4 - View the contents of an archive
+A Zip file manager that lets you:
+
+0 - Zip files into an archive
+1 - Add a file to an archive
+2 - Remove a file from an archive
+3 - Extract an archive
+4 - View the contents of an archiv
+	 
+This task was completed by me with guidance from my java bootcamp(codegym.cc)
